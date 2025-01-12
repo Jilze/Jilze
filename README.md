@@ -1,4 +1,7 @@
 ## Hi there 👋
+## My GitHub Profile
+[![codewars](https://www.codewars.com/users/Jilze/badges/large)](https://www.codewars.com/users/Jilze)   
+
 
 <!--
 **Jilze/Jilze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
